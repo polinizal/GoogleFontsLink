@@ -13,7 +13,7 @@
 /* Mixins, helpers and functions */
 @import "base/mixins";
 
-html {
+html * {
   //
   font-family: Roboto, sans-serif;
   background: $background;
